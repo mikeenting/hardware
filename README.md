@@ -7,6 +7,6 @@
 - [RC Lap Timer](https://github.com/mikeenting/RC-lap-timer)
 
 ## Other
-- [Hidden projector]((https://github.com/mikeenting/hardware/blob/main/projector.md))
+- [Hidden projector](https://github.com/mikeenting/hardware/blob/main/projector.md)
 
 
