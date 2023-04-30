@@ -1,14 +1,12 @@
 # Hardware Projects
 
 ## 3D prints
-### Printer
-Ender 3 V2
-### Smartwatch Stand
-Link to [source](https://www.thingiverse.com/thing:5636189)
-<img src="images/watch_stand.jpeg" alt="Cute cat picture" style="max-width: 40%; display: block; margin: auto;"/>
+- Find them [here.](https://github.com/mikeenting/hardware/blob/main/3dprints.md)
 
 ## Arduino
+- [RC Lap Timer](https://github.com/mikeenting/RC-lap-timer)
 
 ## Other
+- [Hidden projector]((https://github.com/mikeenting/hardware/blob/main/projector.md))
 
 
