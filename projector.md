@@ -14,6 +14,6 @@ Two linear actuators, activated by a switch, push up a small platform, revealing
 
 <p align="center">
 <video width="320" height="240" controls>
-  <source src="img/projector_demo.mov" type="video/mov">
+  <source src="img/projector_demo.mov">
 </video>
 </p>
